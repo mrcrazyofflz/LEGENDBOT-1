@@ -1,6 +1,6 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "SunniUserBot",
+  "description": "Tнє ßєѕτ Sunni мα∂є ϐγ pundai. Made with Love And By wife sex With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
     "telegram",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/Thiruselvan999/LEGENDBOT/",
+  "website": "https://github.com/Thiruselvan999/LEGENDBOT/",
+  "success_url": "https://t.me/Sunni_forever",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",

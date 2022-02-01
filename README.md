@@ -55,7 +55,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/mrcrazyofflz/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 
 `cd LEGENDUSERBOT`
@@ -102,7 +102,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/mrcrazyofflz/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
